@@ -1,4 +1,4 @@
-# Provision an EKS Cluster Terraform
+# Provision an EKS Cluster using Terraform
 
 Terraform configuration files to provision an EKS cluster on AWS.
 
