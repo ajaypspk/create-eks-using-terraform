@@ -9,11 +9,6 @@ Terraform configuration files to provision an EKS cluster on AWS.
 $ sudo apt-get install awscli
 ```
 
-### AWS cli installer
-```shell
-$ sudo apt-get install awscli
-```
-
 After installing the AWS CLI. Configure it to use your credentials.
 
 ```shell
